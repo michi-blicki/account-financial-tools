@@ -84,7 +84,8 @@ git clone https://github.com/yourusername/account_tag.git /path/to/odoo/addons/
 
 ## Configuration
 
-No additional configuration is required beyond module installation. All settings are managed through the standard Odoo interface.
+No additional configuration is required beyond module installation. All settings are managed
+through the standard Odoo interface.
 
 ## API Usage
 
@@ -125,8 +126,8 @@ No further enhancements planed for this module.
 
 ## Credits
 
-**Author**: Michael Blickenstorfer  
-**Website**: https://github.com/michi-blicki/account_tag
+**Author**: Michael Blickenstorfer, Odoo Community Association (OCA)
+**Website**: https://github.com/OCA/account-financial-tools
 **Created**: 2026-02-15
 **Last Update**: 2026-02-15
 
